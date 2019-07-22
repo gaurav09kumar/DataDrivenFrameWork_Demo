@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60833" started-at="2019-07-22T09:19:01Z" finished-at="2019-07-22T09:20:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60833" started-at="2019-07-22T09:19:01Z" finished-at="2019-07-22T09:20:02Z">
+      <class name="testData.ExcelDemo2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="5672" started-at="2019-07-22T09:19:03Z" finished-at="2019-07-22T09:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="f" duration-ms="9436" started-at="2019-07-22T09:19:09Z" data-provider="getdata1" finished-at="2019-07-22T09:19:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="afterMethod" is-config="true" duration-ms="448" started-at="2019-07-22T09:19:19Z" finished-at="2019-07-22T09:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="4127" started-at="2019-07-22T09:19:19Z" finished-at="2019-07-22T09:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="f" duration-ms="9891" started-at="2019-07-22T09:19:23Z" data-provider="getdata1" finished-at="2019-07-22T09:19:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="afterMethod" is-config="true" duration-ms="666" started-at="2019-07-22T09:19:33Z" finished-at="2019-07-22T09:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="4154" started-at="2019-07-22T09:19:34Z" finished-at="2019-07-22T09:19:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="f" duration-ms="8784" started-at="2019-07-22T09:19:38Z" data-provider="getdata1" finished-at="2019-07-22T09:19:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="afterMethod" is-config="true" duration-ms="604" started-at="2019-07-22T09:19:47Z" finished-at="2019-07-22T09:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="beforeMethod" is-config="true" duration-ms="4599" started-at="2019-07-22T09:19:47Z" finished-at="2019-07-22T09:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="f" duration-ms="10069" started-at="2019-07-22T09:19:52Z" data-provider="getdata1" finished-at="2019-07-22T09:20:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testData.ExcelDemo2@5e5792a0]" name="afterMethod" is-config="true" duration-ms="438" started-at="2019-07-22T09:20:02Z" finished-at="2019-07-22T09:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testData.ExcelDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
