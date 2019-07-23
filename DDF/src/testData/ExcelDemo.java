@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-
+//code to extract data from excel sheet
 public class ExcelDemo {
 	public static void main(String[] args) throws IOException {
 		try {
