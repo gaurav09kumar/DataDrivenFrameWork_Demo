@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class ExcelDemo2 {
+public class DDF_main {
 	WebDriver driver;
 
 	@Test(dataProvider = "getdata1")
